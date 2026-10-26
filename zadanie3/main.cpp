@@ -3,7 +3,7 @@
 #include <iomanip>
 
 int main() {
-    // Zadanie 3: pełna treść i przypadki do sprawdzenia w ../zadania.md.
+    // Zadanie 3
     // TODO: Sprawdź datę początkową i wyszukaj trzy piątki trzynastego oraz liczbę dni do każdego.
     return 0;
 }

@@ -7,7 +7,7 @@ void symulujOdpowiedzSerwera() {
 }
 
 int main() {
-    // Zadanie 2: pełna treść i przypadki do sprawdzenia w ../zadania.md.
+    // Zadanie 2
     // TODO: Zmierz jedno wywołanie symulujOdpowiedzSerwera() zegarem steady_clock.
     return 0;
 }
