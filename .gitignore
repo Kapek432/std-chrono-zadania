@@ -1,0 +1,12 @@
+build/
+rozwiazania/
+__pycache__/
+*.obj
+*.o
+*.pcm
+*.ifc
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
